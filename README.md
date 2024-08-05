@@ -8,4 +8,4 @@ use .ipynb file to work with this project Deep learning project
 !pip list
 ```
 download some images 
-follow the process for this deep learning project in Getting Started.ipynb file
+# follow the process for this deep learning project in Getting Started.ipynb file to classify the ijmage
